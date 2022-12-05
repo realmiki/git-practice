@@ -1,1 +1,3 @@
-console.log('Balázs');
+let parameter = "Something"
+
+console.log(parameter);
