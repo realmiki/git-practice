@@ -1,3 +1,3 @@
 let parameter = "Something"
 
-console.log(parameter);
+console.log('Greeting');
