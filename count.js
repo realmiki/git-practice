@@ -1,3 +1,6 @@
- function Count(){
-    console.log("Month of birth : 6");
+
+
+ function Count(name){
+    console.log("My age is : 30 and my name is " + name + " and I born in April");
+
 }
