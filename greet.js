@@ -1,3 +1,5 @@
 let parameter = "Something"
 
-console.log('Greeting');
+function Greet(name){
+    console.log('Greeting' + name);
+}
