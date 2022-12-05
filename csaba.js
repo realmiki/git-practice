@@ -1,10 +1,9 @@
 'use strict';
 
-let teamName = 'dojo-09'
 
-let cheer = (teamName, secondParam) => {
+let parameter = Fradi
 
-    console.log('our team is called:'+ teamName);
+let cheer = (parameter) => {
+    console.log('our team is called:'+ parameter + "Javascript");
 }
-
 
