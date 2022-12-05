@@ -1,5 +1,8 @@
 let parameter = "Something"
 let parameter2 = "Something2"
 
-console.log(parameter);
-console.log(parameter2);
+
+function Greet(name){
+    console.log('Greeting' + name);
+}
+
