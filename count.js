@@ -1,3 +1,3 @@
  function Count(){
-    console.log("My age is : 30");
+    console.log("Month of birth : 6");
 }
